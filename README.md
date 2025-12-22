@@ -1,12 +1,11 @@
 ### Hi 👋 , I'm Nguyen Hoang Tien 
 
-- Frontend Software Engineer with 2+ YOE
+- Frontend Software Engineer with 4+ YOE
 
 
 ### Connect with me:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nguyenhoangtien100501@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hoangtien1005/)
-[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://hackerrank.com/profile/HoangTien1005)
 
 
 ### Tools:
