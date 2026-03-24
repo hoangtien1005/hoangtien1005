@@ -8,9 +8,11 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hoangtien1005/)
 
 ### Artificial Intelligence and Bots:
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=openai&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+
 
 
 ### Tools, CI/CDs:
@@ -56,8 +58,8 @@
 ### Stats:
   
 <p align="left">
-  <img src="https://github.com/hoangtien1005/github-stats/blob/master/generated/overview.svg">
-  <img src="https://github.com/hoangtien1005/github-stats/blob/master/generated/languages.svg">
+  <img src="https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg">
+  <img src="https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg">
 </p>
  
 
