@@ -58,8 +58,8 @@
 ### Stats:
   
 <p align="left">
-  <img src="https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg">
-  <img src="https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg">
+  <img src="https://raw.githubusercontent.com/hoangtien1005/github-stats/master/generated/overview.svg">
+  <img src="https://raw.githubusercontent.com/hoangtien1005/github-stats/master/generated/languages.svg">
 </p>
  
 
